@@ -1,10 +1,10 @@
-## Hi there 👋
+## Hi there, I'm Horace Benjamin 👋
 
-## About Me
+Full-stack PHP, Laravel & WordPress developer with 5+ years of experience building scalable web applications, business systems and custom WordPress solutions.
 
-- 🚀 Full-stack PHP/Laravel & WordPress Developer
+- 🚀 Full-stack PHP, Laravel & WordPress Developer
 - 💼 5+ years of professional experience
-- 🛠️ Building web apps, dashboards & business systems
+- 🛠️ Building web applications, dashboards & business systems
 - ☁️ AWS | REST APIs | MySQL
-- 🌍 Based in Sheffield, UK
-- 🤝 Open to remote opportunities
+- 📍 Sheffield, UK
+- 🤝 Open to remote contract & full-time opportunities
